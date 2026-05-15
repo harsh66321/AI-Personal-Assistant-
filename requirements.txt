@@ -1,0 +1,14 @@
+SpeechRecognition
+sounddevice
+numpy
+pyttsx3
+pocketsphinx
+openai
+pillow
+pytesseract
+python-dateutil
+pytz
+requests
+
+# Microphone capture now uses sounddevice; PyAudio is no longer required.
+# For OCR, install tesseract-ocr from: https://github.com/UB-Mannheim/tesseract/wiki
